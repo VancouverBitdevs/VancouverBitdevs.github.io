@@ -1,4 +1,4 @@
-# BitDevs Vancouver
+# BitDevs Melbourne
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -7,10 +7,10 @@ Simple Jekyll site for hosting all of the links from meetups past and future.
 You'll need [Ruby & Jekyll](https://jekyllrb.com/docs/installation/) to run the
 site locally. Once they're setup:
 
-* Clone the repository and go into the directory
-* Run `bundle install`
-* Run `jekyll serve`
-* Go to http://localhost:4000
+- Clone the repository and go into the directory
+- Run `bundle install`
+- Run `jekyll serve`
+- Go to http://localhost:4000
 
 ## Making a Post
 

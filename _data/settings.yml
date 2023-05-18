@@ -1,9 +1,10 @@
-title: 'BitDevs Vancouver'
+title: 'BitDevs Melbourne'
 tagline: 'BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
 
 menu:
   - {name: 'About', url: '/about'}
-  - {name: 'Calendar', url: '/calendar'}
-  - {name: 'Map', url: '/map'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/Vancouver-Bitcoiners', external: true}
-  - {name: 'Cities', url: '/cities'}
+  # - {name: 'Calendar', url: '/calendar'}
+  # - {name: 'Map', url: '/map'}
+  - {name: "Next Topics", url: 'https://github.com/MelbourneBitDevs/MelbBitDevs/issues', external: true}
+  - {name: "Github", url: 'https://github.com/MelbourneBitDevs/MelbBitDevs/', external: true}
+  # - {name: 'Cities', url: '/cities'}

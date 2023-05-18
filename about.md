@@ -2,54 +2,53 @@
 layout: default
 ---
 
-BitDevs is a community for those interested in discussing and participating in
-the research and development of Bitcoin and related protocols. You can be well
-versed with or new to the topics, all are welcome. Be advised: discussion will
-be technical.
+# MelbBitdevs
 
-### Socratic Seminars
+Melbourne Bitdevs is on the last thursday of every month at the RMIT Blockchain Hub.
 
-Our monthly Socratic Seminar events are formatted to foster debate, information
-sharing and lively discussion. In the weeks preceding the event, discussion
-topics are collated by meetup members from a variety of sources: pull requests
-in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
-network monitors and more. After a period of discussion, some events will have [presentations](https://bitdevs.org/presenter-guidelines/) of open source
-projects, companies, research and other relevant content. A feedback and Q&A
-section follow. After the event the group gathers at a nearby restaurant to
-socialize.
+As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes we diverge into adjacent fields of privacy, self hosting, free software, and more!
 
-A newsletter is sent out the day of the event which outlines discussion topics.
-Archives of discussion topics and presentations can be found in the event
-descriptions of past meetups. The discussion portion of the event is NEVER
-recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
-in order to extract the most value from our Socratic events.
+**[Join the telegram](https://t.me/+6B_js_rFZ0syY2E1) in order to confirm the time of event - and be let upstairs!**
 
-Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: bitdevsnyc at gmail. There
-are different requirements for presentations depending on the nature of the
-project.
+We usually have a larger group than meetup pages indicate. Privacy of attendees is respected, no photos/recordings.
 
-### Whitepaper Series
+## News items for this month
 
-A journal club to discuss specific topics in the Bitcoin ecosystem. This is an
-academic-style journal club where one person chooses a topic or paper and
-presents it. Participants are expected to have read the paper or other material
-suggested by the discussion leader. The discussion leader doesn’t have to be an
-expert on the subject, but should be interested enough in it to read the paper
-thoroughly so as to give a decent presentation. After informally presenting the
-topic, the group can then ask questions or open discussion surrounding the
-topic. The presentation should be informal (slides are allowed, but
-whiteboard/chalkboard is preferred), and this should be a discussion, not a
-one-way transmission of information by the presenter. The reading material
-doesn’t have to be a whitepaper. In the case of widely-known topics (such as
-Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
-material can be suggested.
+Please suggest any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin or Bitcoin-adjacent!
 
-To propose a topic to present or volunteer to present a paper, please contact
-bitdevsnyc at gmail.
+## Group Activity
 
-### Debate Series
+We aim to occasionally try new software or tutorials as a group, building applicable skills within a supportive group environment. So please try to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
 
-Our debate series is dedicated to the investigation of controversial technical
-topics. The structure of the event is dependent on the topic of interest.
+Accumulating list of possible tasks we might be interested in exploring as a group. Please try have access to MacOS or Linux
+
+### Multisig and Carrots
+
+Build a taproot multisig with your friends, and to spend from it. carrot Create a multisig with taproot and spend from it using BDK carrot.
+
+https://github.com/danielabrozzoni/multisigs_and_carrots
+
+### Breeze SDK
+
+Integrate Lightning and bitcoin payments into apps with a very shallow learning curve.
+
+https://github.com/breez/breez-sdk
+
+### Silent Payments on Signet
+
+Like BIP47 (paynym) without notification transactions
+
+https://gist.github.com/nickfarrow/963e0ec915c3a15f2079320ebd2d7b0e
+
+### Loin: Payjoin Lightning Channel Funding
+
+Install the Polar testing environment to spin up 2 LND nodes.
+Create a Collaborative Lightning Channel Opens (privacy++)
+
+https://github.com/chaincase-app/loin/
+
+### A Tour of Core Lightning (base58 repo)
+
+Core Lightning (CLN) is a lightweight, highly customizable and standard compliant implementation of the Bitcoin Lightning Network protocol. We're going to spin up a couple nodes, make a regtest lightning network, and sling some sats around making payments between the nodes.
+
+https://replit.com/@KodyLow/Base58-A-Tour-Of-Core-Lightning
