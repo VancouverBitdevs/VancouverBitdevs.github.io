@@ -12,7 +12,7 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 - Event space [fundraiser](https://we.encrypt.cash/apps/4VGo3BK5VPvuzbQLzSSxdd6stPYW/crowdfund)
 - BitDevs July 27
- -[Bitcoin Block Party September 4](https://www.meetup.com/btc_vancity/events/294307669/)
+- [Bitcoin Block Party September 4](https://www.meetup.com/btc_vancity/events/294307669/)
 
 #### Never miss a Bitcoin event ever again
 
