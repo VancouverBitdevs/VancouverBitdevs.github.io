@@ -63,6 +63,8 @@ Welcome Elenctics to tonight's Socratic Seminar!
 ## 2023 (Central Banking) Banking Crisis
 
 - [US banks prepare for losses in rush for commercial property exit](https://www.ft.com/content/3e905e3c-697c-4109-bd9a-605e75a0cfa4)
+- [Black Rock file for Spot Bitcoin ETF](https://www.etf.com/sections/daily-etf-watch/blackrock-files-bitcoin-etf)
+- [WisdomTree Files Application For Spot Bitcoin ETF](https://bitcoinmagazine.com/markets/wisdomtree-files-application-for-spot-bitcoin-et)
 
 ## Network Data
 
