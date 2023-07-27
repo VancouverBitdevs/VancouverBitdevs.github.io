@@ -72,8 +72,6 @@ We now post the links to this seminar in advance!
 
 <!-- ## Research -->
 
-
-
 <!-- ## InfoSec -->
 
 ## Token Layer
@@ -92,3 +90,4 @@ We now post the links to this seminar in advance!
 
 - [Satscoffee](https://danielpcostas.dev/en/satoffee-lightning-coffee/)
 - [Introducing the Bull Bitcoin Prime PDF Guide for Sovereign Investors](https://www.bullbitcoin.com/blog/bull-bitcoin-prime-services-for-bitcoin-investors-pdf-guide)
+- [BlackRock Study Recommends 84.9% Bitcoin Allocation for Optimal Portfolio](https://bitcoinarchive.co/blackrock-bitcoin-allocation-portfolio-84/)
