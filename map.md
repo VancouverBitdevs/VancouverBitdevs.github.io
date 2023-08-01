@@ -9,6 +9,7 @@ We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you
 - [Coincards](https://coincards.com/): Gift cards and prepaid debit cards.
 - [Meatme](https://www.meatme.ca/): Frozen meat and fish delivered to your door.
 - [Mati Bistro](https://www.matibistro.com/home): Catering
+- **NEW [Petit Bombon](https://www.instagram.com/petitbombon12/)**: Exquisit desserts
 
 ### Brick & Mortar shops
 
@@ -20,18 +21,24 @@ We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you
 
 #### Restaurants, Cafes & Bars:
 
-- **NEW [Big Bite Donair](https://bigbitedonair.ca/)**: Kebaps
-- **NEW [Caffe Artigiano](https://caffeartigiano.com/)**: Coffee and snacks
+- **NEW [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp)**: Pizza
+- [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
+- [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
-- **NEW [Milano Coffee](https://www.milanocoffee.ca/)**: Coffee and tea
+- [Milano Coffee](https://www.milanocoffee.ca/): Coffee and tea
+- **NEW [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=)**: Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 
 #### Miscallaneous
 
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
-- **NEW [Cocoa Tanning](https://www.cocoatanning.ca/)**: Tanning studio and sauna
+- **NEW [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9)**: Convenience store
+- [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
+- **NEW [Remedy Renovations](https://remedy-renovations.com/)**: Renovations
+- **NEW [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/)**: West Coast swag sold from a van
+- [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 
 
 The below map is provided by [BTCMap.org](https://btcmap.org/). You can [add your location here](https://btcmap.org/add-location).

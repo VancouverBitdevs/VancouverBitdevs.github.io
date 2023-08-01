@@ -10,7 +10,6 @@ This format has since spread all around the world, including Vancouver. We encou
 
 ### Canada
 
-- [Toronto](https://www.meetup.com/bitcointo/)
 - [Vancouver](https://bitdevs.ca/)
 - [Victoria](https://bitdevsvictoria.org)
 
@@ -32,15 +31,9 @@ This format has since spread all around the world, including Vancouver. We encou
 ### Overseas
 
 - [Amsterdam](https://bitdevsamsterdam.org/)
-<<<<<<< HEAD
-=======
 - [Athens](https://bitdevs-athens.com/)
 - [Berlin](https://bitdevs.berlin/)
 - [London](https://londonbitdevs.org/)
 - [Melbourne](https://github.com/MelbourneBitDevs/MelbBitDevs/)
 - [São Paulo](https://saopaulobitdevs.org/)
->>>>>>> 2ca40a8d0bc1137c458c95045e9a397819e3c5ce
-- [Berlin](https://bitdevs.berlin/)
-- [London](https://londonbitdevs.org/)
-- [São Paulo](https://bitdevsportugues.org/)
 - [Taipei](https://bitdevs.tw/)
