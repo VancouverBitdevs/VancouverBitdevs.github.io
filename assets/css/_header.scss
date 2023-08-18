@@ -31,12 +31,11 @@
     }
 
     a {
-      color: #333;
-      opacity: 0.4;
+      color: $primary-color;
       margin-left: 1.5rem;
 
       &:hover {
-        color: $primary-color;
+        color: $font-color;
         opacity: 1;
       }
     }
