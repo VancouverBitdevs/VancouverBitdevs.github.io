@@ -13,11 +13,10 @@
     justify-content: space-between;
 
     a {
-      color: #333;
-      opacity: 0.4;
+      color: $primary-color;
 
       &:hover {
-        color: $primary-color;
+        color: $font-color;
         opacity: 1;
       }
     }
