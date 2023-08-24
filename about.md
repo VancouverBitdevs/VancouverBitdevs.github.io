@@ -8,15 +8,23 @@ Melbourne Bitdevs is on the last thursday of every month at the RMIT Blockchain 
 
 As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes we diverge into adjacent fields of privacy, self hosting, free software, and more!
 
-**[Join the telegram](https://t.me/+6B_js_rFZ0syY2E1) in order to confirm the time of event - and be let upstairs!**
-
-We usually have a larger group than meetup pages indicate. Privacy of attendees is respected, no photos/recordings.
+**[Join the telegram](https://t.me/+6B_js_rFZ0syY2E1) to join our group, confirm event details - and be let upstairs!**
 
 ## News items for this month
 
 Please suggest any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin or Bitcoin-adjacent!
 
-## Group Activity
+## Things to note
+
+Attendence is often larger than meetup page RSVPs.
+
+This event is not streamed online, to preserve free discussion, atmosphere, engagement, and community.
+
+To facillitate optimal free and open discussion, **privacy of attendees is taken extremely seriously, absolutely no photos/recordings without explicit consent from all parties. [Chatham house rules](https://en.wikipedia.org/wiki/Chatham_House_Rule) apply.**
+
+---
+
+## Group Activities
 
 We aim to occasionally try new software or tutorials as a group, building applicable skills within a supportive group environment. So please try to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
 

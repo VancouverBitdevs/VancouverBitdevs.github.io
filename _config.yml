@@ -11,7 +11,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "BitDevs Melbourne"
-description: "BitDevs is an in-person community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
+description: "Melbourne BitDevs is an in-person community for those interested in discussing and exploring developments in Bitcoin and related protocols."
 
 # include new files
 include: 
