@@ -22,3 +22,23 @@
     }
   }
 }
+
+.webring-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 0.5em;
+  margin: 0 0.5em;
+}
+@media (max-width: 950px) {
+  .webring-container {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  }
+}
+.webring-item {
+  text-align: center;
+}
+.webring-item img {
+  width: 240px;
+  height: 60px;
+  margin: 0 auto;
+}

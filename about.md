@@ -20,7 +20,7 @@ Attendence is often larger than meetup page RSVPs.
 
 This event is not streamed online, to preserve free discussion, atmosphere, engagement, and community.
 
-To facillitate optimal free and open discussion, **privacy of attendees is taken extremely seriously, absolutely no photos/recordings without explicit consent from all parties. [Chatham house rules](https://en.wikipedia.org/wiki/Chatham_House_Rule) apply.**
+To facillitate optimal free and open discussion, privacy of attendees is taken seriously, absolutely no photos/recordings without explicit consent from all parties. [Chatham house rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) applies.
 
 ---
 
@@ -60,3 +60,52 @@ https://github.com/chaincase-app/loin/
 Core Lightning (CLN) is a lightweight, highly customizable and standard compliant implementation of the Bitcoin Lightning Network protocol. We're going to spin up a couple nodes, make a regtest lightning network, and sling some sats around making payments between the nodes.
 
 https://replit.com/@KodyLow/Base58-A-Tour-Of-Core-Lightning
+
+---
+
+<div>
+  <h3>Webring</h3>
+  <!-- The Bitcoin Webring: https://github.com/nickfarrow/bitcoinwebring -->
+  <div class="webring-container">
+    <div class="webring-item">
+      <a href="https://bitcoin.org/"
+        ><img src="webring-img/bitcoinorg.png" alt="bitcoinorg"
+      /></a>
+    </div>
+    <div class="webring-item">
+      <a href="https://utxo.club"
+        ><img src="webring-img/utxoclub.gif" alt="utxoclub"
+      /></a>
+    </div>
+    <div class="webring-item">
+      <a href="https://frostsnap.com/"
+        ><img src="webring-img/frostsnap.png" alt="frostsnap"
+      /></a>
+    </div>
+    <div class="webring-item">
+      <a href="https://unspent.space/"
+        ><img src="webring-img/unspentspace.png" alt="unspentspace"
+      /></a>
+    </div>
+    <div class="webring-item">
+      <a href="https://bitdevs.com.au/"
+        ><img src="webring-img/melbbitdevs.png" alt="melbbitdevs"
+      /></a>
+    </div>
+    <div class="webring-item">
+      <a href="https://pollofeed.com/"
+        ><img src="webring-img/pollofeed.png" alt="pollofeed"
+      /></a>
+    </div>
+    <div class="webring-item">
+      <a href="https://bitcoinbushbash.info/"
+        ><img src="webring-img/bushbash.gif" alt="bitcoinbushbash"
+      /></a>
+    </div>
+    <div class="webring-item">
+      <a href="https://nolooking.chaincase.app/"
+        ><img src="webring-img/nolooking.gif" alt="nolooking"
+      /></a>
+    </div>
+  </div>
+</div>
