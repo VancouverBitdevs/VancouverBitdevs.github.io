@@ -36,8 +36,7 @@ Ross Crêpe and Cafe
 [Marais Tea Co](https://maraisteaco.com/)
 
 
-### Today's talk
-[Start9 Labs releases Stable Diffusion (text-to-image AI) and FreeGPT (chat AI) on StartOS](https://twitter.com/start9labs/status/1704199417329516570)
+<!-- ### Today's talk -->
 
 ### Mailing Lists
 
@@ -55,11 +54,11 @@ Ross Crêpe and Cafe
 
 <!-- #### dlc-dev -->
 
-#### nostr-dev
+<!-- #### nostr-dev -->
 
 
 
-#### Optech
+<!-- #### Optech -->
 
 
 
@@ -76,7 +75,7 @@ Ross Crêpe and Cafe
 
 
 ## 2023 (Central Banking) Banking Crisis
-
+[M2 Money Supply Correlation to Bitcoin Bull](https://x.com/positivecrypto/status/1701185174665679135?s=46&t=gLs0FCDMYCqjLhZM-jRaDQ)
 
 
 ## Network Data
@@ -117,5 +116,8 @@ Ross Crêpe and Cafe
 
 ## Miscellaneous
 [My Sofa is a Sidechain](https://www.ic.unicamp.br/~stolfi/EXPORT/projects/bitcoin/posts/2015-06-10-my-sofa-is-a-sidechain/main.html)
+
+[Start9 Labs releases Stable Diffusion (text-to-image AI) and FreeGPT (chat AI) on StartOS](https://twitter.com/start9labs/status/1704199417329516570)
+
 
 
