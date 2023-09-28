@@ -4,11 +4,11 @@ layout: default
 
 # MelbBitdevs
 
-Melbourne Bitdevs is on the last thursday of every month at the RMIT Blockchain Hub.
+Melbourne Bitdevs is on the last thursday of every month at the **RMIT Blockchain Hub**.
 
 As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes we diverge into adjacent fields of privacy, self hosting, free software, and more!
 
-**[Join the telegram](https://t.me/+6B_js_rFZ0syY2E1) to join our group, confirm event details - and be let upstairs!**
+**[Join the telegram](https://t.me/+UYLmJ87DXQ81MmI1) to join our group, confirm event details - and be let upstairs!**
 
 ## News items for this month
 
