@@ -24,16 +24,18 @@ We now post the links to this seminar in advance! [Check out our Github issues f
 #### Spend your sats in Vancouver
 
 [Check out our new map and merchant directory](/map)
+
 ### New merchants
-[Disco Biscuits](https://discobiscuits.ca/)
-[Plebsters](https://plebsters.com/)
-[Poseidon Greek](https://poseidonrestaurant.ca/)
-[Aceon Data Recovery](https://www.aceondatarecovery.com/)
-Ross Crêpe and Cafe
-[VanLove Sushi](https://vanlove.ca/)
-[Hotro Organic Meats](https://hotro.ca/)
-[La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan)
-[Marais Tea Co](https://maraisteaco.com/)
+
+- [Disco Biscuits](https://discobiscuits.ca/)
+- [Plebsters](https://plebsters.com/)
+- [Poseidon Greek](https://poseidonrestaurant.ca/)
+- [Aceon Data Recovery](https://www.aceondatarecovery.com/)
+- Ross Crêpe and Cafe
+- [VanLove Sushi](https://vanlove.ca/)
+- [Hotro Organic Meats](https://hotro.ca/)
+- [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan)
+- [Marais Tea Co](https://maraisteaco.com/)
 
 
 ### Today's talk
@@ -102,7 +104,7 @@ Ross Crêpe and Cafe
 
 [LND v0.17.0-beta](https://github.com/lightningnetwork/lnd/releases)
 
-[GPUtopia | GPU Marketplace](https://gputopia.ai/)
+[GPUtopia GPU Marketplace](https://gputopia.ai/)
 
 [Bitcoin engraved mugs available from Inkfire Studios](https://www.inkfire.ca/gallery)
 

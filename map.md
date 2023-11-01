@@ -10,7 +10,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 - [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
 - [Gotoshi](https://gotoshi.ca/store-listing/), Household items delivered out of Ontario
-- [Meatme](https://www.meatme.ca/): Frozen meat and fish delivered to your door
 - [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
 
@@ -27,23 +26,30 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
+- **NEW [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan)**: Mexican restaurant in Mt Pleasant
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
-- **NEW [Honest Pete](https://honesttopete.com/)**: Coffee at The Beaumont
-- **NEW Master Kebap**: Food truck found downtown
+- [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
+- Master Kebap: Food truck found Granville/Dunsmuir
 - [Milano Coffee](https://www.milanocoffee.ca/): Coffee and tea
-- **NEW [Park Drive](https://www.parkdrive.ca/)**: Pub on Commercial Drive
+- [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
+- **NEW [Poseidon Greek](https://poseidonrestaurant.ca/)**: Greek restaurant in Langley
+- **NEW Ross Crêpe and Cafe**: Coffee and dessert shop at Lonsdale Quay
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
+- **NEW [VanLove Sushi](https://vanlove.ca/)**: Sushi restaurant on Robson Street
 
 #### Miscallaneous
 
-- **NEW [All Natural Meat](https://www.allnaturalmeatshop.com/):** Butcher in North Vancouver
+- [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
+- **NEW [Disco Biscuits](https://discobiscuits.ca/)**: Cart selling donuts around Vancouver
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
-- **NEW [Old Country Pierogi](http://www.oldcountrypierogi.com/):** Food Truck
-- **NEW [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby):** Business VoIP services
+- **NEW [Hotro Organic Meats](https://hotro.ca/)**: Butcher shop on Main Street
+- [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
+- [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
+- **NEW [Plebsters](https://plebsters.com/)**: Canadian shop selling Bitcoin swag
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - [Remedy Renovations](https://remedy-renovations.com/): Renovations
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
