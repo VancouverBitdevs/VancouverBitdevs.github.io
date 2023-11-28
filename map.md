@@ -8,10 +8,12 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ### Online merchants
 
+- NEW **[Newegg](https://www.newegg.ca)**: Electronics shipping Canada-wide
 - [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
 - [Gotoshi](https://gotoshi.ca/store-listing/), Household items delivered out of Ontario
 - [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
+- NEW **[Privato Vineyard](https://www.privato.ca/bitcoin)**: Vinery shipping across British Columbia
 
 ### Brick & Mortar shops
 
@@ -26,17 +28,18 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
-- **NEW [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan)**: Mexican restaurant in Mt Pleasant
+- [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
-- Master Kebap: Food truck found Granville/Dunsmuir
+- NEW **[Mahony's Tavern](https://www.mahonystavern.com/)**: Pub by Vancouver Convention Centre with view over the harbour
+- [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - [Milano Coffee](https://www.milanocoffee.ca/): Coffee and tea
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
-- **NEW [Poseidon Greek](https://poseidonrestaurant.ca/)**: Greek restaurant in Langley
-- **NEW Ross Crêpe and Cafe**: Coffee and dessert shop at Lonsdale Quay
+- [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
+- Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
-- **NEW [VanLove Sushi](https://vanlove.ca/)**: Sushi restaurant on Robson Street
+- [VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
 #### Miscallaneous
 
@@ -44,15 +47,18 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
-- **NEW [Disco Biscuits](https://discobiscuits.ca/)**: Cart selling donuts around Vancouver
+- NEW **[Crow's Nest Distillery](http://www.crowsnestdistillery.com/)**: Local quality distillery
+- [Disco Biscuits](https://discobiscuits.ca/)**: Cart selling donuts around Vancouver
+- NEW **[Feral Analysis](https://www.feralanalysis.com)**: Stock and crypto price analysis reports, chart analysis and trading education
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
-- **NEW [Hotro Organic Meats](https://hotro.ca/)**: Butcher shop on Main Street
+- [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
-- **NEW [Plebsters](https://plebsters.com/)**: Canadian shop selling Bitcoin swag
+- [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - [Remedy Renovations](https://remedy-renovations.com/): Renovations
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
+- [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
 - [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 
 
