@@ -103,7 +103,7 @@ Joule
 - [Silentium, a progressive web app for silent Bitcoin payments](https://app.silentium.dev/)
 
 ## Events and Podcasts
-
+- [Collision 2024, July 17-20](https://collisionconf.com/media)
 
 
 ## Miscellaneous
