@@ -64,6 +64,7 @@ Today's MC: Jodom
 
 - [Sats Per Capita](https://satsperperson.com/)
 - [Distribution of Lightning Node implementations](https://pins.grafana.net/public-dashboards/478199ff803c44138feb1439908e891f)
+- [Bitrefill User Statistics](https://x.com/mattahlborg/status/1828436316930912364)
 
 ## Mining
 
@@ -93,10 +94,12 @@ Today's MC: Jodom
 
 ## Events and Podcasts
 
+- [Africa Bitcoin Conference](https://afrobitcoin.org/)
 - [CoinOS AMA on Stacker News](https://stacker.news/items/6607760)
 
 ## Miscellaneous
 
+- [Money at the Speed of Lightning: The Global, Interoperable Layer 2 💸⚡](https://lightninglabs.substack.com/p/money-at-the-speed-of-lightning-the)
 - [We Investigated Canada's Secret Bitcoin City](https://www.youtube.com/watch?v=SS8-qjP-yAo)
 - [Exclusive With Jordi Montes, the Man Who Delayed Trump at Bitcoin2024](https://thedefiant.io/news/people/exclusive-with-jordi-montes-the-man-who-delayed-trump-at-bitcoin2024)
 - [Lightning Network In A Class Of Its Own At Bitcoin 2024 Conference](https://bitcoinmagazine.com/technical/lightning-network-in-a-class-of-its-own-at-bitcoin-2024-conference)
