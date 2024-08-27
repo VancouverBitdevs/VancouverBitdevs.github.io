@@ -20,7 +20,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - ⚡[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
 - ⚡Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
-- ⚡[The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 - ⚡[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 - ⚡[VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
@@ -32,19 +31,20 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
+- **NEW: [Cuba Street Food](https://cubastreetfood.ca)**: Cuban street food truck
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Carnitas Don Jose](https://www.donjosecarnitas.ca/): Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - [Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
-- **NEW [Jack Lonsdale's](https://jacklonsdales.ca/)**: Pub in North Vancouver
+- [Jack Lonsdale's](https://jacklonsdales.ca/): Pub in North Vancouver
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - [Milano Espresso Bar](https://www.milanocoffee.ca/): Coffee on Denman Street
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
 - Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
-- NEW **[Salad House Buffet](https://www.order.store/ca/store/salad-house-buffet/p4IKH8khR3COifLmVBc1Yw)**: Salad bar by City Hall
+- [Salad House Buffet](https://www.order.store/ca/store/salad-house-buffet/p4IKH8khR3COifLmVBc1Yw): Salad bar by City Hall
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 - [Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
@@ -60,6 +60,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Privato Vineyard](https://www.privato.ca/bitcoin): Vinery shipping across British Columbia
 - [Rize Fitness](https://shop.rizefitness.ca/): Supplements
+- ** NEw:[West Coast Cannabis](https://wccannabis.co/)**: Cannabis online delivery
 
 ### Barbershops, spas and fitness:
 
@@ -73,7 +74,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ### Miscallaneous shops
 
-- **NEW [Adrenaline Tattoo](https://adrenalinestudios.com/)**: Tattoo parlor on Main Street
+- [Adrenaline Tattoo](https://adrenalinestudios.com/): Tattoo parlor on Main Street
 - Al Madina Corner Store: Convenience store on West Pender
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [Blunt Cannabis](https://www.bluntcannabis.ca/): Cannabis Store in Lonsdale
@@ -86,7 +87,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
-- **NEW [Shroom Magic Mushrooms](https://www.instagram.com/shr8m)**: Psychedelics in North Vancouver
+- [Shroom Magic Mushrooms](https://www.instagram.com/shr8m): Psychedelics in North Vancouver
 - [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 - [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
 
@@ -95,7 +96,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
 - [Arbutus](https://arbutus.com/): Custom furniture
 - [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local distillery
-- **NEW [Eco Pro Heating and Cooling](https://call.ecoproheating.ca/lp-heatpump)**: Heating and air-conditioning, installation and maintenance
+- [Eco Pro Heating and Cooling](https://call.ecoproheating.ca/lp-heatpump): Heating and air-conditioning, installation and maintenance
 - [Feral Analysis](https://www.feralanalysis.com): Stock and crypto price analysis reports, chart analysis and trading education
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
 - [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
