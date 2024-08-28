@@ -20,7 +20,12 @@ Today's MC: Jodom
 
 [Check out and subscribe to the calendar here](/calendar)
 
-
+- [Spending Bitcoin - A Lightning Network Workshop](https://lu.ma/rrbu4oe7) **August 29**
+- [Port Moody Bitcoin Meetup](https://lu.ma/vgbijb9b) **September 4**
+- [Lightning Pints at Jack Lonsdale's Public House ⚡🍺](https://www.meetup.com/bitcoin-n-beers-vancouver/events/303014170/) **September 12**
+- [Learning Bitcoin Victoria](https://www.learningbitcoin.ca/) **September 28**
+- September Bitdevs **October 1**
+- [CoinOS Coffee Meetup](https://www.meetup.com/bitcoinprivilege/) Mondays 10:00 and Thursdays 16:00
 
 ### Spend your sats in Vancouver
 
