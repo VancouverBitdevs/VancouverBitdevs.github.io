@@ -77,6 +77,7 @@ Today's MC: Mike
 - [Nasdaq seeks SEC approval for bitcoin index options](https://www.reuters.com/technology/nasdaq-seeks-sec-approval-bitcoin-index-options-2024-08-27/)
 - [Bitcoin's Protection under the First Amendment](https://nydig.com/research/bitcoins-protection-under-the-first-amendment)
 - [Inside the Biden Admin’s Plot to Destroy Silvergate and Debank Crypto for Good](https://www.piratewires.com/p/inside-biden-admin-plot-to-destroy-silvergate-and-debank-crypto-for-good-nic-carter)
+- [Louisiana Accepts First Cryptocurrency Payment For State Services](https://www.forbes.com/sites/digital-assets/2024/09/19/louisiana-accepts-first-cryptocurrency-payment-for-state-services/)
 
 ## (Central Banking) Banking Crisis
 
@@ -91,6 +92,7 @@ Today's MC: Mike
 - [Lightning Prediction Market](https://stacker.news/items/695842)
 - [Launching the Boltz BTCPay Plugin: Accept Lightning Payments Without Running a Node](https://blog.boltz.exchange/p/launching-the-boltz-btcpay-plugin)
 - [WeSatoshis Hardware Warm Wallet](https://x.com/PakoVM/status/1840462859693613252)
+- [Lava Loans v2 announced](https://github.com/lava-xyz/loans-paper/blob/main/loans_v2.pdf)
 
 ## Events and Podcasts
 
