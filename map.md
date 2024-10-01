@@ -31,7 +31,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
-- **NEW: [Cuba Street Food](https://cubastreetfood.ca)**: Cuban street food truck
+- [Cuba Street Food](https://cubastreetfood.ca): Cuban street food truck
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Carnitas Don Jose](https://www.donjosecarnitas.ca/): Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
@@ -57,10 +57,11 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [D-Central](https://d-central.tech/): 3D-printed accessories from Quebec
 - [Gotoshi](https://gotoshi.ca/store-listing/): Household items delivered out of Ontario
 - [Marais Tea Company](https://maraisteaco.com): Tea shipping from BC
+- [Medella Mushrooms](https://www.medellamushrooms.com/): Foraged and cultivated mushrooms from BC
 - [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Privato Vineyard](https://www.privato.ca/bitcoin): Vinery shipping across British Columbia
 - [Rize Fitness](https://shop.rizefitness.ca/): Supplements
-- ** NEw:[West Coast Cannabis](https://wccannabis.co/)**: Cannabis online delivery
+- [West Coast Cannabis](https://wccannabis.co/): Cannabis online delivery
 
 ### Barbershops, spas and fitness:
 
