@@ -2,6 +2,10 @@
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
+## Ruby
+
+This site requires Ruby 2.1 If you have installed Ruby through snap (`snap install ruby --classic`) you can switch to Ruby 2.1 with `snap switch ruby --channel=2.1/stable` and `snap refresh`).
+
 ## Development
 
 You'll need [Ruby & Jekyll](https://jekyllrb.com/docs/installation/) to run the

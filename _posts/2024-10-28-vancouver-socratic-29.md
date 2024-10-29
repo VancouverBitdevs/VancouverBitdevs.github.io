@@ -92,6 +92,7 @@ Today's MC: Sjors
 
 - [Blink completes transaction to accelerate growth and boost support of Bitcoin communities around the world](https://www.blink.sv/blog/blink-completes-transaction-to-accelerate-growth-and-boost-support-of-bitcoin-communities-around-the-world)
 - [Fewsats: Blockbuster](https://x.com/RyanTheGentry/status/1848754852232380578)
+- [Angor crowdfunding](https://angor.io/)
 
 ## Events and Podcasts
 
