@@ -51,7 +51,7 @@ Today's MC: Mike
 ## Optech
 
 - [Building BOLT 12 into Strike](https://strike.me/blog/bolt12-offers/)
-- [https://conduition.io/mercury-disclosure-f893472ec3128de1.html](Merkle Layer vulnerability research report)
+- [Merkle Layer vulnerability research report](https://conduition.io/mercury-disclosure-f893472ec3128de1.html)
 
 ## Bitcoinomics
 
