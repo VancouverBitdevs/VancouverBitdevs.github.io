@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-date: "2024-10-28 19:00:00"
+date: "2024-10-29 19:00:00"
 title: "Vancouver Socratic 029"
 meetup: https://lu.ma/az6wpu06
 ---
