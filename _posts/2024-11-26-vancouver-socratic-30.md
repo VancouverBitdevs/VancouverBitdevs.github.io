@@ -46,10 +46,12 @@ Today's MC: Jordi
 - [BIP 21 Updates](https://groups.google.com/g/bitcoindev/c/P0D5EZyw1Bk/m/XRLzbh5UAwAJ)
 - [Boost Your Bitcoin Node Sync With UTXO Snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
 - [Preserving trustless UTXO ownership](https://twitter.com/jamesob/status/1860340932706730261)
+- [Neovim plugin that helps with understanding the Bitcoin scripting language](https://github.com/taproot-wizards/bitcoin-script-hints.nvim)
 
 ## lightning-dev
 
-
+- [Fewsats releases new version of L402 protocol](https://github.com/l402-protocol/l402-server-example)
+- [Ark is introducing virtual channels](https://x.com/ArkLabsHQ/status/1861457652699820520)
 
 ## Optech
 
@@ -63,6 +65,8 @@ Today's MC: Jordi
 ## Network Data
 
 - [Proof of place, Bitcoin and Nostr](https://habla.news/u/nathan@btcmap.org/2uBWmmKOqd-09vQVMH8X0)
+- [Lightning Network reaches US$500 million in capacity](https://x.com/ambosstech/status/1860024729308135691)
+- [Wallet of Satoshi makes 21 millionth payment](https://x.com/walletofsatoshi/status/1860840095429083240)
 
 ## Mining
 
@@ -86,6 +90,7 @@ Today's MC: Jordi
 - [Buy sats on Bitcoin Well over the Lightning Network](https://x.com/thebitcoinwell/status/1853505692759642119)
 - [Bitso enables Lightning support to 8 million users](https://x.com/lightspark/status/1856400256814199033)
 - [Using NFC Cards with Nostr](https://njump.me/naddr1qqyx2eryv5urxwphqgsphkn7raeed0dz68hejqea4r7jmsmzsyrephumuch4jypchwtufkgrqsqqqa289e6ktn)
+- [Neutronpay announces partnership with BitGo Singapore](https://x.com/Neutronpay/status/1859470987458445367)
 
 ## Events and Podcasts
 
