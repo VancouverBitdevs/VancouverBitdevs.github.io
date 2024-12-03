@@ -11,7 +11,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 ## Recommendations
 
 - ⚡[Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
-- ⚡[Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona.
 - ⚡[Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - ⚡[Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
@@ -29,17 +28,18 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
-- [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
 - [Cuba Street Food](https://cubastreetfood.ca): Cuban street food truck
+- [Happa Butchery](https://www.happabutchery.ca/): Organic fresh meats in Greektown
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Carnitas Don Jose](https://www.donjosecarnitas.ca/): Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - [Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Jack Lonsdale's](https://jacklonsdales.ca/): Pub in North Vancouver
+- [Killer Ice Cream](https://killericecream.ca/): Ice cream in Greektown
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
-- [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
+- [Master Chef's Kabob](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - [Milano Espresso Bar](https://www.milanocoffee.ca/): Coffee on Denman Street
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
@@ -60,7 +60,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Medella Mushrooms](https://www.medellamushrooms.com/): Foraged and cultivated mushrooms from BC
 - [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Privato Vineyard](https://www.privato.ca/bitcoin): Vinery shipping across British Columbia
-- [Rize Fitness](https://shop.rizefitness.ca/): Supplements
+- [Rize Fitness](https://shop.rizefitness.ca/): Gym & supplements
 - [West Coast Cannabis](https://wccannabis.co/): Cannabis online delivery
 
 ### Barbershops, spas and fitness:
@@ -88,7 +88,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
-- [Shroom Magic Mushrooms](https://www.instagram.com/shr8m): Psychedelics in North Vancouver
+- [Shroom Magic Mushrooms](https://www.instagram.com/shr8m): Psychedelics in Chinatown
 - [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 - [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
 
