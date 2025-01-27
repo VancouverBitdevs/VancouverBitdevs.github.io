@@ -44,6 +44,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
 - Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
+- [Rens Cafe](https://renscafe.com/)
 - [Salad House Buffet](https://www.order.store/ca/store/salad-house-buffet/p4IKH8khR3COifLmVBc1Yw): Salad bar by City Hall
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
@@ -71,7 +72,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
 - [Float House Therapy](https://floathouse.ca/): Wellness center
 - [JD's Barbershop](https://www.jdsbarbershop.com/): Men's haircuts and grooming
-- [Medi Spa La Bella](https://medispalabella.com/): Beauty salon in Richmond
 
 ### Miscallaneous shops
 
@@ -83,8 +83,10 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
 - [EJ Cell Phone Repair](https://ejrepair.com/): Cell phone repair in Greektown
 - [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
+- [Happy Wanderers Butcher](https://www.happywandererscattle.com/)
 - [House of Keys](https://www.houseofkeysbc.com/): Hardware store in North Vancouver
 - [Jack Lonsdale](https://jacklonsdales.ca/): Liquor store in Lonsdale
+- [Oh My Print Solutions](https://www.ohmyprintsolutions.com/)
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
@@ -98,13 +100,13 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Arbutus](https://arbutus.com/): Custom furniture
 - [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local distillery
 - [Eco Pro Heating and Cooling](https://call.ecoproheating.ca/lp-heatpump): Heating and air-conditioning, installation and maintenance
-- [Feral Analysis](https://www.feralanalysis.com): Stock and crypto price analysis reports, chart analysis and trading education
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
-- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
 - [Longlife Windows and Doors](http://longlife.ca/): Windows and Doors
 - [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
+- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
 - [Picasso Home Painting](http://picasshomepainting.com/): Painting business
+- [Powell Contracting Renovations](https://www.powell-contracting.com/)
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - [Remedy Renovations](https://remedy-renovations.com/): Renovations
 
