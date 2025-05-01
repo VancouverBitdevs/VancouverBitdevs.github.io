@@ -12,7 +12,7 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 We now post the links to this seminar in advance! [Check out our Github issues for the latest.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/issues)
 
-Today's MC: TBD
+Today's MC: Daniel D'Aquino
 
 ### Never miss a Bitcoin event ever again
 
@@ -26,6 +26,8 @@ Today's MC: TBD
 
 #### New merchants
 
+[Mangez Mangez Cafe](https://www.mangezmangez.com/)
+[To the Point Painting: Painting Company in North Vancouver](https://www.tothepointpainting.ca/)
 
 
 <!-- ### Today's talk -->
@@ -36,7 +38,8 @@ Today's MC: TBD
 
 ## bitcoin-dev
 
-
+- [New - Bitcoin PR #32359 to remove arbitrary limits on OP_RETURN.](https://x.com/punithbtc/status/1917225726954320318) 
+- [Remove arbitrary limits on OP_Return (datacarrier) outputs bitcoin/bitcoin#32359](https://github.com/bitcoin/bitcoin/pull/32359)
 
 ## lightning-dev
 
@@ -104,7 +107,10 @@ Today's MC: TBD
 
 ## Events and Podcasts
 
-
+Nos Vegas Nostr Meetup & Party
+Bitcoin week vegas
+We All Scream Nightclub, 517 Fremont St., Las Vegas, NV 89101
+https://pay.zaprite.com/pl_D12cQ9rAmK
 
 ## Miscellaneous
 
