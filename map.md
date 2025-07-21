@@ -15,23 +15,21 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - ⚡[Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
-- ⚡[Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - ⚡[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - ⚡[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
 - ⚡Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - ⚡[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
-- ⚡[VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
+- ⚡[Butcher's Block & BBQ](https://butchersblockbbq.com/)
 
 ### Restaurants, cafes & Bars:
 
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
+- [Butcher's Block & BBQ](https://butchersblockbbq.com/)
 - [Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
 - [Cuba Street Food](https://cubastreetfood.ca): Cuban street food truck
-- [Happa Butchery](https://www.happabutchery.ca/): Organic fresh meats in Greektown
-- [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Carnitas Don Jose](https://www.donjosecarnitas.ca/): Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
@@ -39,7 +37,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Jack Lonsdale's](https://jacklonsdales.ca/): Pub in North Vancouver
 - [Killer Ice Cream](https://killericecream.ca/): Ice cream in Greektown
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
-- [Master Chef's Kabob](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - [Milano Espresso Bar](https://www.milanocoffee.ca/): Coffee on Denman Street
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
@@ -49,7 +46,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 - [Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
-- [VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
 ### Online merchants
 
@@ -66,12 +62,12 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ### Barbershops, spas and fitness:
 
+- [Alter Ego Barbershop](https://getsquire.com/discover/barbershop/alter-ego-barbershop-vancouver): Men's haircuts and grooming
 - [Arc Studio](https://arcstudiospace.com/): Pilates studio on Commercial Drive
 - [Clover Salon](https://www.cloversalon.com/): Men's and women's haircuts, coloring, grooming, hennas
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
 - [Float House Therapy](https://floathouse.ca/): Wellness center
-- [JD's Barbershop](https://www.jdsbarbershop.com/): Men's haircuts and grooming
 
 ### Miscallaneous shops
 
@@ -82,12 +78,13 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
 - [EJ Cell Phone Repair](https://ejrepair.com/): Cell phone repair in Greektown
-- [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
+- [Fine Finds Boutique](https://finefindsboutique.com/): Clothing in Yaletown
 - [Happy Wanderers Butcher](https://www.happywandererscattle.com/)
 - [House of Keys](https://www.houseofkeysbc.com/): Hardware store in North Vancouver
 - [Jack Lonsdale](https://jacklonsdales.ca/): Liquor store in Lonsdale
 - [Oh My Print Solutions](https://www.ohmyprintsolutions.com/)
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
+- [Samson Wardrobes](https://samsonwardrobes.com/): Menswear Downtown
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
 - [Shroom Magic Mushrooms](https://www.instagram.com/shr8m): Psychedelics in Chinatown
@@ -104,6 +101,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Longlife Windows and Doors](http://longlife.ca/): Windows and Doors
 - [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
+- [Paris Service Group](https://parisservicegroup.com/): Plumbing, heating and AC services
 - [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
 - [Picasso Home Painting](http://picasshomepainting.com/): Painting business
 - [Powell Contracting Renovations](https://www.powell-contracting.com/)

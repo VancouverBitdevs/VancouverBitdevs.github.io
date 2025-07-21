@@ -1,9 +1,9 @@
 ---
 layout: post
 type: socratic
-date: "2025-05-27 19:00:00"
-title: "Vancouver Socratic 033"
-meetup: https://lu.ma/12mky82j
+date: "2025-08-14 19:00:00"
+title: "Vancouver Socratic 034"
+meetup: https://lu.ma/3b21ktdw
 ---
 
 ## Institutio Theologiae Elencticae
