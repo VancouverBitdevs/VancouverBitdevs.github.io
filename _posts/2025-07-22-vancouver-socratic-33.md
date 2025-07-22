@@ -58,6 +58,7 @@ Mat Balez on [Bringing ₿ to the World](https://spiralbtc.substack.com/p/bringi
 
 ## lightning-dev
 
+- [LND: gossip_timestamp_filter DoS](https://morehouse.github.io/lightning/lnd-gossip-timestamp-filter-dos/)
 - [Gossip rate limiting in LND](https://github.com/Roasbeef/lnd/blob/c9afe0058541cb7a270176e6ec85daab8bd4674f/docs/gossip_rate_limiting.md)
 
 ## Optech
@@ -90,7 +91,7 @@ Mat Balez on [Bringing ₿ to the World](https://spiralbtc.substack.com/p/bringi
 ## Regulatory
 
 - [Games with Bitcoin payments now possible in App Store](https://x.com/mandelduck/status/1932822884486885408)
-- [https://vancouversun.com/news/vancouver-company-pays-3-3-million-illegal-crypto-sales](https://vancouversun.com/news/vancouver-company-pays-3-3-million-illegal-crypto-sales)
+- [Vancouver company must pay $3.3 million for illegal crypto sales](https://vancouversun.com/news/vancouver-company-pays-3-3-million-illegal-crypto-sales)
 - [Meta in talks to deploy stablecoins three years after giving up on landmark crypto project](https://fortune.com/crypto/2025/05/08/meta-stablecoins-exploration-usdc-circle-diem-libra/)
 - [Electrum announces plugins](https://x.com/electrumwallet/status/1935611155331874922)
 
