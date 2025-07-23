@@ -90,6 +90,7 @@ Mat Balez on [Bringing ₿ to the World](https://spiralbtc.substack.com/p/bringi
 
 ## Regulatory
 
+- [Ken Sim’s Love of Bitcoin Makes Critics Nervous](https://thetyee.ca/News/2025/07/21/Ken-Sim-Bitcoin-Critics-Nervous/)
 - [Games with Bitcoin payments now possible in App Store](https://x.com/mandelduck/status/1932822884486885408)
 - [Vancouver company must pay $3.3 million for illegal crypto sales](https://vancouversun.com/news/vancouver-company-pays-3-3-million-illegal-crypto-sales)
 - [Meta in talks to deploy stablecoins three years after giving up on landmark crypto project](https://fortune.com/crypto/2025/05/08/meta-stablecoins-exploration-usdc-circle-diem-libra/)
@@ -110,5 +111,6 @@ Mat Balez on [Bringing ₿ to the World](https://spiralbtc.substack.com/p/bringi
 
 ## Miscellaneous
 
+- [Looking at some claims that quantum computers won't work](https://blog.cr.yp.to/20250118-flight.html)
 - [Secret Deals, Foreign Investments, Presidential Policy Changes: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
 - [Trump’s Quest for Crypto Riches Is a Constitutional Scandal Waiting to Happen](https://www.wired.com/story/trumps-quest-for-crypto-riches-is-a-constitutional-scandal-waiting-to-happen/)
