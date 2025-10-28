@@ -5,5 +5,5 @@ menu:
   - {name: 'About', url: '/about'}
   - {name: 'Calendar', url: '/calendar'}
   - {name: 'Map', url: '/map'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/Vancouver-Bitcoiners', external: true}
+  - {name: 'Events', url: 'https://luma.com/vanbitcoin', external: true}
   - {name: 'Cities', url: '/cities'}
