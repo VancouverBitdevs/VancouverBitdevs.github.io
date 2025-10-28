@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-date: "2025-08-26 19:00:00"
-title: "Vancouver Socratic 035"
+date: "2025-11-25 19:00:00"
+title: "Vancouver Socratic 036"
 meetup: https://lu.ma/vanbitcoin
 ---
 
@@ -63,10 +63,6 @@ Today's MC: TBD
 
 
 ## Regulatory
-
-
-
-## (Central Banking) Banking Crisis
 
 
 
