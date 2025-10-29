@@ -24,8 +24,9 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 ### Restaurants, cafes & Bars:
 
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
+- [Aldergrove Cafe by Lucia](https://www.instagram.com/aldergrove_cafe/): Breakfast and lunch diner in Aldergrove
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
-- [Butcher's Block & BBQ](https://butchersblockbbq.com/)
+- [Butcher's Block & BBQ](https://butchersblockbbq.com/): BBQ joint in Burnaby Heights
 - [Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
@@ -37,6 +38,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Jack Lonsdale's](https://jacklonsdales.ca/): Pub in North Vancouver
 - [Killer Ice Cream](https://killericecream.ca/): Ice cream in Greektown
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
+- [Mangez Mangez Cafe](https://mangezmangez.com/): Breakfast and Lunch Cafe downtown
 - [Milano Espresso Bar](https://www.milanocoffee.ca/): Coffee on Denman Street
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
@@ -82,19 +84,21 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Happy Wanderers Butcher](https://www.happywandererscattle.com/)
 - [House of Keys](https://www.houseofkeysbc.com/): Hardware store in North Vancouver
 - [Jack Lonsdale](https://jacklonsdales.ca/): Liquor store in Lonsdale
+- [Kim's Repair](https://www.instagram.com/kimsrepair969/): Shoe and bag repair
 - [Oh My Print Solutions](https://www.ohmyprintsolutions.com/)
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
+- [Print Print](https://printprint.ca/): Print shop near Chinatown
 - [Samson Wardrobes](https://samsonwardrobes.com/): Menswear Downtown
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
 - [Shroom Magic Mushrooms](https://www.instagram.com/shr8m): Psychedelics in Chinatown
-- [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 - [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
 
 ### B2B, wholesale and others
 
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
 - [Arbutus](https://arbutus.com/): Custom furniture
+- [Cool Moose HVAC](https://www.instagram.com/coolmoosehvac/): Residential and commercial HVAC service, maintenance, install, gas fitting
 - [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local distillery
 - [Eco Pro Heating and Cooling](https://call.ecoproheating.ca/lp-heatpump): Heating and air-conditioning, installation and maintenance
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
@@ -107,6 +111,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Powell Contracting Renovations](https://www.powell-contracting.com/)
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - [Remedy Renovations](https://remedy-renovations.com/): Renovations
+- [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 
 ### Charity
 
