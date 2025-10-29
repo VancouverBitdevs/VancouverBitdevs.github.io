@@ -73,7 +73,7 @@ Today's MC: David
 
 ## Mining
 
-[Stratum Analysis Panel](https://stratum.work/)
+- [Stratum Analysis Panel](https://stratum.work/)
 
 ## Token Layer
 

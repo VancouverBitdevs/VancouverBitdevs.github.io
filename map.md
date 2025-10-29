@@ -84,7 +84,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Happy Wanderers Butcher](https://www.happywandererscattle.com/)
 - [House of Keys](https://www.houseofkeysbc.com/): Hardware store in North Vancouver
 - [Jack Lonsdale](https://jacklonsdales.ca/): Liquor store in Lonsdale
-- [Kim's Repair](https://www.instagram.com/kimsrepair969/): Shoe and bag repair
+- [Kim's Repair](kimsrepair.com): Shoe and bag repair
 - [Oh My Print Solutions](https://www.ohmyprintsolutions.com/)
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Print Print](https://printprint.ca/): Print shop near Chinatown
