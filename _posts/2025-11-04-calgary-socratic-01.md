@@ -26,6 +26,7 @@ Today's MC: Leo Weese
 - [Optimal threshold signatures in Bitcoin](https://arxiv.org/abs/2509.25408)
 - [Segregated OP_RETURN proposal](https://gnusha.org/pi/bitcoindev/c38d00f7-a42b-4f7b-899e-11e823a43d7dn@googlegroups.com/T/#mf683b1ff5f6ba3f101591147e5535e348a8cc3f6)
 - [Bitcoin Node Repository Consensus-Policy Separation](https://gnusha.org/pi/bitcoindev/73a08ea3-b9be-424b-a1cb-beac3206723cn@googlegroups.com/T/#m0c13517852b39de3778fe8ccac5e065179fdbca8)
+- [Payjoin UX challenges](https://github.com/orgs/payjoin/discussions/706)
 
 ## lightning-dev
 
