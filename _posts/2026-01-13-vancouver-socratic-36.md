@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-date: "2025-11-25 19:00:00"
-title: "Vancouver Socratic 036"
+date: "2025-01-13 19:00:00"
+title: "Vancouver Socratic 037"
 meetup: https://lu.ma/vanbitcoin
 ---
 
