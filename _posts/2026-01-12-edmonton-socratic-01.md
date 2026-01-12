@@ -61,9 +61,11 @@ Today's MC: Leo
 
 ## Regulatory
 
+- [BTQ Technologies Launches Bitcoin Quantum Testnet](https://thequantuminsider.com/2026/01/12/btq-technologies-launches-bitcoin-quantum-testnet/)
 - [A Call to Action for Canada’s Progressive Parties to Embrace Bitcoin](https://progressivebitcoiner.org/fix-the-money-heal-the-system/)
 - [B.C. wins forfeiture of $1 million in cash, gold linked to failed cryptocurrency company QuadrigaCX](https://vancouversun.com/business/bc-wins-forfeiture-1-million-in-cash-gold-linked-to-failed-cryptocurrency-company-quadrigacx)
 - [Vancouver Mayor Ken Sim’s Bitcoin Obsession](https://www.capilanocourier.com/2026/01/01/orange-pilled/)
+- [DOJ investigation of Powell sparks backlash, support for Fed independence](https://www.pbs.org/newshour/politics/doj-investigation-of-powell-sparks-backlash-support-for-fed-independence)
 
 ## New Releases
 
