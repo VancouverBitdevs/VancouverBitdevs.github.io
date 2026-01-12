@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 date: "2026-01-13 19:00:00"
-title: "Vancouver Socratic 037"
+title: "Edmonton Socratic 001"
 meetup: https://www.meetup.com/bitcoin-warehouse-edmontons-bitcoin-headquarters/events/312464741/
 ---
 
