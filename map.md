@@ -17,20 +17,18 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - ⚡[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - ⚡[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
-- ⚡Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
+- ⚡[Sharky's Chophouse](https://sharkyschophouse.ca/): Coffee shop in Anmore
 - ⚡[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 - ⚡[Butcher's Block & BBQ](https://butchersblockbbq.com/)
 
 ### Restaurants, cafes & Bars:
 
-- [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Aldergrove Cafe by Lucia](https://www.instagram.com/aldergrove_cafe/): Breakfast and lunch diner in Aldergrove
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Butcher's Block & BBQ](https://butchersblockbbq.com/): BBQ joint in Burnaby Heights
 - [Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
-- [Cuba Street Food](https://cubastreetfood.ca): Cuban street food truck
 - [Carnitas Don Jose](https://www.donjosecarnitas.ca/): Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
@@ -45,13 +43,13 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - [Rens Cafe](https://renscafe.com/)
 - [Salad House Buffet](https://www.order.store/ca/store/salad-house-buffet/p4IKH8khR3COifLmVBc1Yw): Salad bar by City Hall
+- [Sharky's Chophouse](https://sharkyschophouse.ca/)
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 - [Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 
 ### Online merchants
 
-- [Newegg](https://www.newegg.ca): Electronics shipping Canada-wide
 - [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
 - [D-Central](https://d-central.tech/): 3D-printed accessories from Quebec
 - [Gotoshi](https://gotoshi.ca/store-listing/): Household items delivered out of Ontario
