@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-date: "2026-04-28 19:00:00"
-title: "Vancouver Socratic 039"
+date: "2026-06-30 19:00:00"
+title: "Vancouver Socratic 040"
 meetup: https://lu.ma/vanbitcoin
 ---
 
@@ -27,8 +27,6 @@ Today's MC: TBD
 #### New merchants
 
 
-
-<!-- ### Today's talk -->
 
 ### Today's talk
 
@@ -67,6 +65,7 @@ Today's MC: TBD
 
 
 ## New Releases
+
 
 
 ## Events and Podcasts
