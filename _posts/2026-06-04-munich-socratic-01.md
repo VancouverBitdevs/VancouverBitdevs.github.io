@@ -49,13 +49,6 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 ## Regulatory
 
-- [Ottawa outlines plans to tackle financial crime, ban crypto ATMs](https://www.vancouverisawesome.com/national-news/ottawa-outlines-plans-to-tackle-financial-crime-ban-crypto-atms-12206125)
-- [Canada proposes ban on crypto ATMs as fraud cases mount](https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount)
-- [Ottawa urged by industry to hit pause on plan to ban crypto ATMs](https://www.theglobeandmail.com/politics/article-ottawa-urged-to-hit-pause-on-plan-to-ban-crypto-atms/)
-- [Edmonton-based cryptocurrency company wants to work with feds on proposed ATM crackdown](https://www.ctvnews.ca/edmonton/article/edmonton-based-cryptocurrency-company-wants-to-work-with-feds-on-proposed-atm-crackdown/)
-- [Canadians for Crypto Access](https://canadiansforcryptoaccess.ca/)
-- [Tell your MP: regulate crypto ATMs, do not ban them.](https://www.dontbancryptoatms.ca/)
-
 ## New Releases
 
 - [LDK Server launched](https://spiral.xyz/ldkserver.pdf)
