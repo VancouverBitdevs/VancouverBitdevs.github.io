@@ -1,36 +1,14 @@
 ---
 layout: post
 type: socratic
-date: "2026-06-30 19:00:00"
-title: "Vancouver Socratic 040"
-meetup: https://luma.com/7hmfbved
+date: "2026-06-04 19:00:00"
+title: "München Socratic 01"
+meetup: https://luma.com/b2a4fq9f
 ---
 
 ## Institutio Theologiae Elencticae
 
 Welcome Elenctics to tonight's Socratic Seminar!
-
-We now post the links to this seminar in advance! [Check out our Github issues for the latest.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/issues)
-
-Today's MC: TBD
-
-### Never miss a Bitcoin event ever again
-
-[Check out and subscribe to the calendar here](/calendar)
-
-
-
-### Spend your sats in Vancouver
-
-[Check out our new map and merchant directory](/map)
-
-#### New merchants
-
-
-
-### Today's talk
-
-
 
 ## bitcoin-dev
 
@@ -70,13 +48,6 @@ Today's MC: TBD
 
 
 ## Regulatory
-
-- [Ottawa outlines plans to tackle financial crime, ban crypto ATMs](https://www.vancouverisawesome.com/national-news/ottawa-outlines-plans-to-tackle-financial-crime-ban-crypto-atms-12206125)
-- [Canada proposes ban on crypto ATMs as fraud cases mount](https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount)
-- [Ottawa urged by industry to hit pause on plan to ban crypto ATMs](https://www.theglobeandmail.com/politics/article-ottawa-urged-to-hit-pause-on-plan-to-ban-crypto-atms/)
-- [Edmonton-based cryptocurrency company wants to work with feds on proposed ATM crackdown](https://www.ctvnews.ca/edmonton/article/edmonton-based-cryptocurrency-company-wants-to-work-with-feds-on-proposed-atm-crackdown/)
-- [Canadians for Crypto Access](https://canadiansforcryptoaccess.ca/)
-- [Tell your MP: regulate crypto ATMs, do not ban them.](https://www.dontbancryptoatms.ca/)
 
 ## New Releases
 
