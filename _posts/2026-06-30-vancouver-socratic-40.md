@@ -18,7 +18,6 @@ Today's MC: TBD
 
 [Check out and subscribe to the calendar here](/calendar)
 
-- [Chilliwack Bitcoin Meetup](https://www.meetup.com/bitcoinprivilege/events/315418561/) **11 May**
 - [BTC++ Toronto](https://btcpp.dev/toronto) **22-24 July** Use "VANCOUVER" for a 20% discount
 - [Bitdevs](https://luma.com/vanbitcoin) **29 July**
 - [East Van Bitcoin Meetup](https://luma.com/m4pjyfuj) **August 5**
