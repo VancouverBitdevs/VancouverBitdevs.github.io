@@ -16,6 +16,7 @@ Today's MC: Leo
 
 ## bitcoin-dev
 
+- [validation: use parallel input prevout fetching in TestBlockValidity](https://github.com/bitcoin/bitcoin/pull/35751)
 - [Bitcoin Core CVE-2024-52911 - Script Interpreter Remote Crash](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
 - [Generic signmessage](https://bitcoinops.org/en/topics/generic-signmessage/)
 - [TCP hole punching for Bitcoin nodes behind home NATs?](https://delvingbitcoin.org/t/tcp-hole-punching-for-bitcoin-nodes-behind-home-nats/2497)
