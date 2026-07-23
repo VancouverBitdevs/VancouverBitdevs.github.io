@@ -1,9 +1,9 @@
 ---
 layout: post
 type: socratic
-date: "2026-06-30 19:00:00"
-title: "Vancouver Socratic 040"
-meetup: https://luma.com/7hmfbved
+date: "2026-07-23 18:30:00"
+title: "Vancouver Toronto 001"
+meetup: https://luma.com/xhxl4ajn
 ---
 
 ## Institutio Theologiae Elencticae
@@ -12,28 +12,7 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 We now post the links to this seminar in advance! [Check out our Github issues for the latest.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/issues)
 
-Today's MC: TBD
-
-### Never miss a Bitcoin event ever again
-
-[Check out and subscribe to the calendar here](/calendar)
-
-- [BTC++ Toronto](https://btcpp.dev/toronto) **22-24 July** Use "VANCOUVER" for a 20% discount
-- [Bitdevs](https://luma.com/vanbitcoin) **29 July**
-- [East Van Bitcoin Meetup](https://luma.com/m4pjyfuj) **August 5**
-- [Bitcoin Block Party](https://luma.com/ed63hjqz) **August 23**
-
-### Spend your sats in Vancouver
-
-[Check out our new map and merchant directory](/map)
-
-#### New merchants
-
-
-
-### Today's talk
-
-
+Today's MC: Leo
 
 ## bitcoin-dev
 
