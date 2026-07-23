@@ -22,6 +22,10 @@ Today's MC: Leo
 - [Testnet5 proposed to deal with the issues of testnet4](https://github.com/fjahr/bips/pull/2/changes/957136cfd6d499ca515c3d9eada0a445c27cfcda)
 - [Testnet5 discussion](https://groups.google.com/g/bitcoindev/c/kGUMTxOvdJA/m/UF4W6Yo0AAAJ)
 - [Silent Payments: a hands-on guide to better Bitcoin privacy](https://bennet.org/learn/silent-payments-bitcoin-privacy/)
+- [On the Lack of Replay Protection](https://murch.one/posts/replay-protection/)
+- [Bitcoin After Block Rewards](https://arxiv.org/abs/2606.05503)
+- [Discussion: Bitcoin After Block Rewards](https://delvingbitcoin.org/t/research-bitcoin-after-block-rewards-preventing-miners-deviation-when-the-bitcoin-rewards-is-zero/2626)
+- [The Bitcoin Softfork That Tried to Police “Junk Data” — And Why It’s Already Failing](https://bitcoinmagazine.com/technical/the-bitcoin-softfork-that-tried-to-police-junk-data-and-why-its-already-failing)
 
 ## lightning-dev
 
@@ -34,18 +38,21 @@ Today's MC: Leo
 - [Bisq Protocol Exploit](https://x.com/bisq_network/status/2050206753246363819)
 - [Bisq Security Incident Post-Mortem](https://bisq.network/blog/security-incident-post-mortem/)
 - [CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
+- [Organised crime groups move billions through crypto, global financial crime watchdog warns](https://www.reuters.com/legal/government/organised-crime-groups-move-billions-through-crypto-global-financial-crime-2026-07-16/)
 
 ## Bitcoinomics
 
 - [Michael Saylor's Strategy sells 32 bitcoin for $2.5 million as total holdings drop to 843,706 BTC](https://www.theblock.co/post/403160/michael-saylors-strategy-sells-bitcoin)
 - [Bitcoin, Fiat, and Islamic Finance](https://www.axiomventures.vc/islamic)
 - [Maelstrom Bitcoin Grant Program Report](https://maelstrom.fund/wp-content/uploads/2026/06/Maelstrom-Bitcoin-Grant-Program-Annual-Report-1.pdf)
+- [Adam Back Lies About SPAC Collapse, Greg Maxwell’s Role in Chris Cook Origins](https://natinfosec.substack.com/p/adam-back-lies-greg-maxwell-chris)
 
 ## Network Data
 
 - [Zeus Lightning Economics Report](https://zeusln.com/lightning-economics)
 - [Bitnodes is shutting down](https://bitcointalk.org/index.php?topic=5582226.0)
 - [Blink Weekly Brief](https://www.blink.sv/blog/weekly-brief-2026-21)
+- [Forgotten Satoshi Nakamoto Emails Discovered](https://satoshitimes.com/bohm/)
 
 ## Mining
 
@@ -76,6 +83,8 @@ Today's MC: Leo
 - [Lightning is live on NDAX](https://ndax.io/en/blog/article/move-bitcoin-faster-with-btc-lightning-on-ndax)
 - [Bitnodes relaunched](https://bitnod.es/)
 - [Bark now on bitcoin mainnet](https://blog.second.tech/bark-now-on-bitcoin-mainnet/)
+- [Deposit to Polymarket over the Lightning Network](https://x.com/spark/status/2074539080197775421)
+- [Announcing Wavelength: Bitcoin on Easy Mode for Agents and Humans](https://lightning.engineering/posts/2026-07-21-wavelength-launch/)
 
 ## Events and Podcasts
 
