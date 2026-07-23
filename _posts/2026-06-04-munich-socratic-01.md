@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 date: "2026-06-04 19:00:00"
-title: "München Socratic 01"
+title: "München Socratic 001"
 meetup: https://luma.com/b2a4fq9f
 ---
 

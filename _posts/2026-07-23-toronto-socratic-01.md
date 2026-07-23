@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 date: "2026-07-23 18:30:00"
-title: "Vancouver Toronto 001"
+title: "Toronto Socratic 001"
 meetup: https://luma.com/xhxl4ajn
 ---
 
