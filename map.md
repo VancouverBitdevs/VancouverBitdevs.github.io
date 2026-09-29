@@ -13,9 +13,8 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona.
 - ⚡[Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
-- ⚡[Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
+- ⚡[Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont and CBC
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
-- ⚡[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - ⚡[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
 - ⚡[Sharky's Chophouse](https://sharkyschophouse.ca/): Hot meals at the Lonsdale Market
 - ⚡[Trails Coffee](https://trailscoffee.com/): Coffee shop in Anmore
@@ -36,7 +35,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - [Mangez Mangez Cafe](https://mangezmangez.com/): Breakfast and Lunch Cafe downtown
 - [Milano Espresso Bar](https://www.milanocoffee.ca/): Coffee on Denman Street
-- [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
 - [Rens Cafe](https://renscafe.com/)
 - [Salad House Buffet](https://www.order.store/ca/store/salad-house-buffet/p4IKH8khR3COifLmVBc1Yw): Salad bar by City Hall
@@ -69,12 +67,10 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 ### Miscallaneous shops
 
 - [Adrenaline Tattoo](https://adrenalinestudios.com/): Tattoo parlor on Main Street
-- [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [Blunt Cannabis](https://www.bluntcannabis.ca/): Cannabis Store in Lonsdale
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [EJ Cell Phone Repair](https://ejrepair.com/): Cell phone repair in Greektown
 - [Fine Finds Boutique](https://finefindsboutique.com/): Clothing in Yaletown
-- [Happy Wanderers Butcher](https://www.happywandererscattle.com/)
 - [House of Keys](https://www.houseofkeysbc.com/): Hardware store in North Vancouver
 - [Jack Lonsdale](https://jacklonsdales.ca/): Liquor store in Lonsdale
 - [Kim's Repair](https://kimsrepair.com): Shoe and bag repair
@@ -83,17 +79,14 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Print Print](https://printprint.ca/): Print shop near Chinatown
 - [Samson Wardrobes](https://samsonwardrobes.com/): Menswear Downtown
-- [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
-- [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
 - [Shroom Magic Mushrooms](https://www.instagram.com/shr8m): Psychedelics in Chinatown
-- [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
+- [Mr. Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
 
 ### B2B, wholesale and others
 
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
 - [Arbutus](https://arbutus.com/): Custom furniture
 - [Cool Moose HVAC](https://www.instagram.com/coolmoosehvac/): Residential and commercial HVAC service, maintenance, install, gas fitting
-- [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local distillery
 - [Eco Pro Heating and Cooling](https://call.ecoproheating.ca/lp-heatpump): Heating and air-conditioning, installation and maintenance
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
 - [Longlife Windows and Doors](http://longlife.ca/): Windows and Doors
