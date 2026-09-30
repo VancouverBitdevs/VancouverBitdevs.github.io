@@ -44,7 +44,7 @@ Today's MC: TBD
 
 - [SHRINCS: A Compact Hash-Based Signature Scheme](https://github.com/SHRINCS/shrincs-bip/blob/main/SHRINCS.md)
 - [FROST: Flexible Round-Optimized Schnorr Threshold Signatures](https://eprint.iacr.org/2020/852.pdf)
-- [The Ark Protocol: VTXOs and the Virtual Transaction Tree](https://www.ellemouton.com/posts/ark-vtxos-and-trees/_
+- [The Ark Protocol: VTXOs and the Virtual Transaction Tree](https://www.ellemouton.com/posts/ark-vtxos-and-trees/)
 - [The Ark Protocol: Forfeit Transactions and Connector Trees](https://www.ellemouton.com/posts/ark-forfeits-and-connectors/)
 - [The Ark Protocol: OOR Transactions](https://www.ellemouton.com/posts/ark-oor-transactions/)
 - [Shielded Bitcoin Private Transfers on the Bitcoin L1](https://www.allocinit.xyz/uploads/shielded-bitcoin.pdf)
