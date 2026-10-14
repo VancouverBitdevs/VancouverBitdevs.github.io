@@ -1,9 +1,9 @@
 ---
 layout: post
 type: socratic
-date: "2026-10-27 19:00:00"
+date: "2026-11-24 19:00:00"
 title: "Vancouver Socratic 043"
-meetup: https://lu.ma/vanbitcoin
+meetup: https://luma.com/jqvoegy8
 ---
 
 ## Institutio Theologiae Elencticae
