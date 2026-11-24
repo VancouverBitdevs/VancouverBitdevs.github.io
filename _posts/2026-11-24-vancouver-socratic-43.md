@@ -67,6 +67,7 @@ Today's MC: TBD
 - [LNbits 1.7.0: security update and upgrade guidance](https://news.lnbits.com/news/lnbits-1-7-0-security-update)
 - [Popular websites compromised in bid to steal crypto, target iPhone users](https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/)
 - [Free Samourai Node compromised](https://x.com/RMessitt/status/2123150588800070102)
+- [Coinkite Coldcard Postmortem](https://blog.coinkite.com/coldcard-postmortem-published/)
 
 - [Debian CVE Fest](https://lwn.net/Articles/1097401/)
 - [Linux CVE-2026-98432](https://ubuntu.com/security/CVE-2026-98432)
