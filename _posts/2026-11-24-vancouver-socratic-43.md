@@ -136,6 +136,7 @@ Today's MC: TBD
 
 - [Local Bitcoiners Episode 34 with Fustler and Kurtis](https://localbitcoiners.com/ep034)
 - [Bitcoin is Secret Knowledge w/James: Chilliwack, BC Ep. 035](https://localbitcoiners.com/ep035)
+- [There is no Secret Ingredient w/Curtis & Leo: Vancouver, BC | Ep. 036](https://localbitcoiners.com/ep036)
 
 ## Miscellaneous
 
