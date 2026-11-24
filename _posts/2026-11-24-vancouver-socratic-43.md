@@ -89,6 +89,7 @@ Today's MC: TBD
 - [Qubes XSAs released on 2026-11-10](https://www.qubes-os.org/news/2026/11/10/xsas-released-on-2026-11-10/)
 
 - [3 Canadian Armed Forces members among 7 charged in Toronto crypto-motivated kidnapping investigation](https://winnipeg.citynews.ca/2026/10/14/toronto-police-abduction-investigation-canadian-armed-forces/)
+- [France Proposes to Build Registry of All Cryptocurrency Users](https://www.therage.co/france-proposes-to-build-registry-of-all-cryptocurrency-users/)
 
 ## Bitcoinomics
 
