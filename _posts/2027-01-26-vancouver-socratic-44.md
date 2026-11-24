@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-date: "2026-11-24 19:00:00"
+date: "2027-01-26 19:00:00"
 title: "Vancouver Socratic 043"
 meetup: https://luma.com/jqvoegy8
 ---
