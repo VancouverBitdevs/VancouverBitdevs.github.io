@@ -68,6 +68,7 @@ Today's MC: TBD
 - [Popular websites compromised in bid to steal crypto, target iPhone users](https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/)
 - [Free Samourai Node compromised](https://x.com/RMessitt/status/2123150588800070102)
 - [Coinkite Coldcard Postmortem](https://blog.coinkite.com/coldcard-postmortem-published/)
+- [Electrum CVE-2026-117601 Fee Bump](https://app.opencve.io/cve/CVE-2026-117601)
 
 - [Debian CVE Fest](https://lwn.net/Articles/1097401/)
 - [Linux CVE-2026-98432](https://ubuntu.com/security/CVE-2026-98432)
@@ -105,6 +106,7 @@ Today's MC: TBD
 - [NYT Hoaxed by Crypto Bros, Adam Back & Samson Mow’s Schemes Unravel](https://natinfosec.substack.com/p/fraud-adam-back-samson-mow-chris)
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 - [What Does It Cost to Force-Close a Lightning Channel? Evidence from 974,000 Channel Closes, 2018-2026](https://arxiv.org/abs/2611.16311)
+- [Electrum Proxy Servers spun up in mid November 2026](https://bnoc.xyz/t/electrum-proxy-servers-spun-up-in-mid-november-2026/215)
 
 ## Mining
 
