@@ -67,6 +67,8 @@ Today's MC: TBD
 - [LNbits 1.7.0: security update and upgrade guidance](https://news.lnbits.com/news/lnbits-1-7-0-security-update)
 - [Popular websites compromised in bid to steal crypto, target iPhone users](https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/)
 - [Free Samourai Node compromised](https://x.com/RMessitt/status/2123150588800070102)
+- [Coinkite Coldcard Postmortem](https://blog.coinkite.com/coldcard-postmortem-published/)
+- [Electrum CVE-2026-117601 Fee Bump](https://app.opencve.io/cve/CVE-2026-117601)
 
 - [Debian CVE Fest](https://lwn.net/Articles/1097401/)
 - [Linux CVE-2026-98432](https://ubuntu.com/security/CVE-2026-98432)
@@ -88,6 +90,7 @@ Today's MC: TBD
 - [Qubes XSAs released on 2026-11-10](https://www.qubes-os.org/news/2026/11/10/xsas-released-on-2026-11-10/)
 
 - [3 Canadian Armed Forces members among 7 charged in Toronto crypto-motivated kidnapping investigation](https://winnipeg.citynews.ca/2026/10/14/toronto-police-abduction-investigation-canadian-armed-forces/)
+- [France Proposes to Build Registry of All Cryptocurrency Users](https://www.therage.co/france-proposes-to-build-registry-of-all-cryptocurrency-users/)
 
 ## Bitcoinomics
 
@@ -103,6 +106,7 @@ Today's MC: TBD
 - [NYT Hoaxed by Crypto Bros, Adam Back & Samson Mow’s Schemes Unravel](https://natinfosec.substack.com/p/fraud-adam-back-samson-mow-chris)
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 - [What Does It Cost to Force-Close a Lightning Channel? Evidence from 974,000 Channel Closes, 2018-2026](https://arxiv.org/abs/2611.16311)
+- [Electrum Proxy Servers spun up in mid November 2026](https://bnoc.xyz/t/electrum-proxy-servers-spun-up-in-mid-november-2026/215)
 
 ## Mining
 
@@ -135,6 +139,7 @@ Today's MC: TBD
 
 - [Local Bitcoiners Episode 34 with Fustler and Kurtis](https://localbitcoiners.com/ep034)
 - [Bitcoin is Secret Knowledge w/James: Chilliwack, BC Ep. 035](https://localbitcoiners.com/ep035)
+- [There is no Secret Ingredient w/Curtis & Leo: Vancouver, BC | Ep. 036](https://localbitcoiners.com/ep036)
 
 ## Miscellaneous
 
